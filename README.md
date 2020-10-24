@@ -9,4 +9,5 @@ A whole lot of apt packages:
 * libxkbcommon-dev
 * libgtk-3-0
 * libgbm1
+
 plus node version 12.19.0

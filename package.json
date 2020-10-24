@@ -1,0 +1,23 @@
+{
+  "name": "screenscrape-test",
+  "version": "1.0.0",
+  "description": "Testing screen scraping of web apps using puppeteer and node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sconstable/screenscrape-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sconstable/screenscrape-test/issues"
+  },
+  "homepage": "https://github.com/sconstable/screenscrape-test#readme",
+  "dependencies": {
+    "puppeteer": "^5.4.0"
+  }
+}
